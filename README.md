@@ -1,1 +1,0 @@
-In this repo Im going to solve javascript leetcode problem by myself
